@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%9B%EF%B8%8F;IoT+%26+Hardware+Lover+%F0%9F%94%8C;Building+Innovative+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=venuja&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
 </div>
 
 ---
