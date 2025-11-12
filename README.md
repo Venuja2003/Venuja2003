@@ -78,6 +78,46 @@ const venuja = {
 #### IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+#### 🛠️ IDEs & Development Environments
+
+Showcasing the IDEs and notebooks we use to develop, debug, and test the project.
+
+<!-- Badges -->
+<p align="left">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+### Visuals & Quick Notes
+
+#### Visual Studio Code (VS Code)
+- ![VS Code small](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+- Lightweight, extensible editor ideal for JavaScript/TypeScript (MERN), Docker, and general full-stack development.
+- Quick tips: Open the project with `File → Open Folder` or run `code .` from the project root.
+
+#### WebStorm
+- ![WebStorm small](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
+- Powerful JetBrains IDE focused on JavaScript/Node, great refactoring and debugging experience for frontend/backend JS.
+
+#### PyCharm
+- ![PyCharm small](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+- Best for Python projects — smart editor, virtualenv/venv integration, test runners, and Jupyter support.
+
+#### IntelliJ IDEA
+- ![IntelliJ small](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+- Full-featured Java/Kotlin IDE — excellent if your project includes JVM components or backend microservices.
+
+#### Google Colab
+- ![Colab small](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+- Cloud notebooks for quick experiments, data analysis, and sharing runnable Python notebooks without local setup.
+
+---
+
 ---
 
 ### 📊 GitHub Statistics
@@ -108,9 +148,9 @@ const venuja = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venuja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venuja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venuja@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venuja2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venuja-ransika-758807332/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venujaransika15@gmail.com)
 
 </div>
 
