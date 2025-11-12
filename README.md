@@ -18,10 +18,10 @@ const venuja = {
     code: ["JavaScript", "Python", "TypeScript", "C++"],
     technologies: {
         frontEnd: ["React", "Next.js", "HTML5", "CSS3", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "REST APIs", "GraphQL"],
-        databases: ["MongoDB", "Redis", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "Git", "AWS", "Nginx"],
-        iot: ["Arduino", "Raspberry Pi", "ESP32", "MQTT"]
+        backEnd: ["Node.js", "Express", "Python"],
+        databases: ["MongoDB", "Redis","MySQL"],
+        devOps: ["Docker", "Git"],
+        iot: ["ESP32", "MQTT"]
     },
     currentFocus: "Building scalable web applications & IoT solutions",
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
@@ -33,7 +33,7 @@ const venuja = {
 ### 💼 What I'm Working On
 
 🔭 **Current Projects:**
-- 🌐 Building a real-time collaborative platform using MERN stack
+- 🌐 Building a real-time ticket booking platform using MERN stack
 - 🏠 Developing smart home automation system with IoT
 - 📱 Creating a mobile-responsive e-commerce application
 - 🔧 Contributing to open-source projects
@@ -43,6 +43,9 @@ const venuja = {
 - DevOps & Cloud Technologies (AWS, Kubernetes)
 - WebSockets & Real-time Communication
 - Machine Learning Fundamentals
+- IoT microcontroller programming
+- Docker deployment
+- Professional grade UI/UX design
 
 ---
 
@@ -60,26 +63,20 @@ const venuja = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -92,16 +89,6 @@ const venuja = {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venuja&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venuja&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=venuja&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
